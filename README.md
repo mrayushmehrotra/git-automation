@@ -24,9 +24,6 @@ cargo run <remote_url>
 ## if you want to globally install this project to use it anywhere use this command after building this project
 
 ```
-
 cargo install --path .
-
 ```
 
-by mrayushmehrotra
