@@ -28,3 +28,5 @@ cargo run <remote_url>
 cargo install --path .
 
 ```
+
+by mrayushmehrotra
