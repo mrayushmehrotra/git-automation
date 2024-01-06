@@ -15,9 +15,7 @@ cd git-automation
 
 # build the project and run
 
-cargo build
-
-cargo run <remote_url>
+cargo run
 
 ```
 
@@ -26,4 +24,3 @@ cargo run <remote_url>
 ```
 cargo install --path .
 ```
-
